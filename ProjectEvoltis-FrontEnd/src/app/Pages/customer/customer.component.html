@@ -1,0 +1,37 @@
+
+<div class="mat-elevation-z2" style="width: 60%; padding: 30px; margin: 50px auto; display: flex;justify-content: center;">
+    <form [formGroup]="formCustomer" class="form">
+        <div><h2>{{title}}</h2></div>
+        <div class="flex">
+            <mat-form-field class="full-width">
+                <mat-label>Nombre Completo</mat-label>
+                <input matInput  formControlName="customerName">
+              </mat-form-field>
+        </div>
+        <div class="flex">
+            <mat-form-field class="full-width">
+                <mat-label>Nombre Contacto</mat-label>
+                <input matInput  formControlName="contactName">
+              </mat-form-field>
+        </div>
+        <div class="flex">
+            <mat-form-field class="full-width">
+                <mat-label>Direccion</mat-label>
+                <input matInput  formControlName="address">
+              </mat-form-field>
+        </div>
+        <div class="flex">
+            <mat-form-field class="full-width">
+                <mat-label>Ciudad</mat-label>
+                <input matInput  formControlName="city">
+              </mat-form-field>
+        </div>
+
+        <div class="flex">
+            <button mat-flat-button color="primary" (click)="guardar()">Guardar</button>
+            <button mat-flat-button color="warn" (click)="volver()" style="margin-left: 8px;">Volver</button>
+        </div>
+
+    </form>
+
+</div>

@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProyectoEvoltis.Application.DTO\ProyectoEvoltis.Application.DTO.csproj" />
+    <ProjectReference Include="..\ProyectoEvoltis.Domain\ProyectoEvoltis.Domain.csproj" />
+    <ProjectReference Include="..\ProyectoEvoltis.Transversal.Common\ProyectoEvoltis.Transversal.Common.csproj" />
+  </ItemGroup>
+
+</Project>

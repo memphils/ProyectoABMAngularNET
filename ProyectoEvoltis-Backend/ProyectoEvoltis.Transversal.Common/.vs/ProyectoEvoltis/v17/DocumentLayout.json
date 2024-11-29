@@ -1,0 +1,299 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B4F7F5-AB22-48AF-A976-74DDD4CFA319}|ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Transversal.Common.csproj|f:\\proyectos\\proyectoevoltis\\proyectoevoltis.transversal.common\\proyectoevoltis.transversal.common\\responsegeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B4F7F5-AB22-48AF-A976-74DDD4CFA319}|ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Transversal.Common.csproj|solutionrelative:proyectoevoltis.transversal.common\\responsegeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8C5B22-13B8-4A63-84BF-7388F67E5247}|ProyectoEvoltis.WebApi\\ProyectoEvoltis.WebApi.csproj|f:\\proyectos\\proyectoevoltis\\proyectoevoltis.transversal.common\\proyectoevoltis.webapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8C5B22-13B8-4A63-84BF-7388F67E5247}|ProyectoEvoltis.WebApi\\ProyectoEvoltis.WebApi.csproj|solutionrelative:proyectoevoltis.webapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18842F0D-2688-4520-B35E-26EF5A3DD002}|ProyectoEvoltis.Application.Main\\ProyectoEvoltis.Application.Main.csproj|f:\\proyectos\\proyectoevoltis\\proyectoevoltis.transversal.common\\proyectoevoltis.application.main\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18842F0D-2688-4520-B35E-26EF5A3DD002}|ProyectoEvoltis.Application.Main\\ProyectoEvoltis.Application.Main.csproj|solutionrelative:proyectoevoltis.application.main\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DE13F7-D516-4D14-9D68-787817FE2022}|ProyectoEvoltis.Application.Validator\\ProyectoEvoltis.Application.Validator.csproj|f:\\proyectos\\proyectoevoltis\\proyectoevoltis.transversal.common\\proyectoevoltis.application.validator\\customersdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DE13F7-D516-4D14-9D68-787817FE2022}|ProyectoEvoltis.Application.Validator\\ProyectoEvoltis.Application.Validator.csproj|solutionrelative:proyectoevoltis.application.validator\\customersdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8384EB7D-4B33-461D-8F28-83A480A9DECC}|ProyectoEvoltis.Infraestructure.Persistence\\ProyectoEvoltis.Infrastructure.Persistence.csproj|f:\\proyectos\\proyectoevoltis\\proyectoevoltis.transversal.common\\proyectoevoltis.infraestructure.persistence\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8384EB7D-4B33-461D-8F28-83A480A9DECC}|ProyectoEvoltis.Infraestructure.Persistence\\ProyectoEvoltis.Infrastructure.Persistence.csproj|solutionrelative:proyectoevoltis.infraestructure.persistence\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8384EB7D-4B33-461D-8F28-83A480A9DECC}|ProyectoEvoltis.Infraestructure.Persistence\\ProyectoEvoltis.Infrastructure.Persistence.csproj|f:\\proyectos\\proyectoevoltis\\proyectoevoltis.transversal.common\\proyectoevoltis.infraestructure.persistence\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8384EB7D-4B33-461D-8F28-83A480A9DECC}|ProyectoEvoltis.Infraestructure.Persistence\\ProyectoEvoltis.Infrastructure.Persistence.csproj|solutionrelative:proyectoevoltis.infraestructure.persistence\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8384EB7D-4B33-461D-8F28-83A480A9DECC}|ProyectoEvoltis.Infraestructure.Persistence\\ProyectoEvoltis.Infrastructure.Persistence.csproj|f:\\proyectos\\proyectoevoltis\\proyectoevoltis.transversal.common\\proyectoevoltis.infraestructure.persistence\\repositories\\customersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8384EB7D-4B33-461D-8F28-83A480A9DECC}|ProyectoEvoltis.Infraestructure.Persistence\\ProyectoEvoltis.Infrastructure.Persistence.csproj|solutionrelative:proyectoevoltis.infraestructure.persistence\\repositories\\customersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18842F0D-2688-4520-B35E-26EF5A3DD002}|ProyectoEvoltis.Application.Main\\ProyectoEvoltis.Application.Main.csproj|f:\\proyectos\\proyectoevoltis\\proyectoevoltis.transversal.common\\proyectoevoltis.application.main\\customers\\icustomersapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18842F0D-2688-4520-B35E-26EF5A3DD002}|ProyectoEvoltis.Application.Main\\ProyectoEvoltis.Application.Main.csproj|solutionrelative:proyectoevoltis.application.main\\customers\\icustomersapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8C5B22-13B8-4A63-84BF-7388F67E5247}|ProyectoEvoltis.WebApi\\ProyectoEvoltis.WebApi.csproj|f:\\proyectos\\proyectoevoltis\\proyectoevoltis.transversal.common\\proyectoevoltis.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8C5B22-13B8-4A63-84BF-7388F67E5247}|ProyectoEvoltis.WebApi\\ProyectoEvoltis.WebApi.csproj|solutionrelative:proyectoevoltis.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8C5B22-13B8-4A63-84BF-7388F67E5247}|ProyectoEvoltis.WebApi\\ProyectoEvoltis.WebApi.csproj|f:\\proyectos\\proyectoevoltis\\proyectoevoltis.transversal.common\\proyectoevoltis.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A8C5B22-13B8-4A63-84BF-7388F67E5247}|ProyectoEvoltis.WebApi\\ProyectoEvoltis.WebApi.csproj|solutionrelative:proyectoevoltis.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B1CB1B-9094-456C-82FF-A318252DC41F}|ProyectoEvoltis.Domain\\ProyectoEvoltis.Domain.csproj|f:\\proyectos\\proyectoevoltis\\proyectoevoltis.transversal.common\\proyectoevoltis.domain\\entity\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B1CB1B-9094-456C-82FF-A318252DC41F}|ProyectoEvoltis.Domain\\ProyectoEvoltis.Domain.csproj|solutionrelative:proyectoevoltis.domain\\entity\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8384EB7D-4B33-461D-8F28-83A480A9DECC}|ProyectoEvoltis.Infraestructure.Persistence\\ProyectoEvoltis.Infrastructure.Persistence.csproj|f:\\proyectos\\proyectoevoltis\\proyectoevoltis.transversal.common\\proyectoevoltis.infraestructure.persistence\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8384EB7D-4B33-461D-8F28-83A480A9DECC}|ProyectoEvoltis.Infraestructure.Persistence\\ProyectoEvoltis.Infrastructure.Persistence.csproj|solutionrelative:proyectoevoltis.infraestructure.persistence\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8384EB7D-4B33-461D-8F28-83A480A9DECC}|ProyectoEvoltis.Infraestructure.Persistence\\ProyectoEvoltis.Infrastructure.Persistence.csproj|f:\\proyectos\\proyectoevoltis\\proyectoevoltis.transversal.common\\proyectoevoltis.infraestructure.persistence\\interfaces\\iorderexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8384EB7D-4B33-461D-8F28-83A480A9DECC}|ProyectoEvoltis.Infraestructure.Persistence\\ProyectoEvoltis.Infrastructure.Persistence.csproj|solutionrelative:proyectoevoltis.infraestructure.persistence\\interfaces\\iorderexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18842F0D-2688-4520-B35E-26EF5A3DD002}|ProyectoEvoltis.Application.Main\\ProyectoEvoltis.Application.Main.csproj|f:\\proyectos\\proyectoevoltis\\proyectoevoltis.transversal.common\\proyectoevoltis.application.main\\common\\mappings\\mappingsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18842F0D-2688-4520-B35E-26EF5A3DD002}|ProyectoEvoltis.Application.Main\\ProyectoEvoltis.Application.Main.csproj|solutionrelative:proyectoevoltis.application.main\\common\\mappings\\mappingsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B4F7F5-AB22-48AF-A976-74DDD4CFA319}|ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Transversal.Common.csproj|f:\\proyectos\\proyectoevoltis\\proyectoevoltis.transversal.common\\proyectoevoltis.transversal.common\\responsepagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B4F7F5-AB22-48AF-A976-74DDD4CFA319}|ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Transversal.Common.csproj|solutionrelative:proyectoevoltis.transversal.common\\responsepagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B4F7F5-AB22-48AF-A976-74DDD4CFA319}|ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Transversal.Common.csproj|f:\\proyectos\\proyectoevoltis\\proyectoevoltis.transversal.common\\proyectoevoltis.transversal.common\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B4F7F5-AB22-48AF-A976-74DDD4CFA319}|ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Transversal.Common.csproj|solutionrelative:proyectoevoltis.transversal.common\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResponseGeneric.cs",
+              "DocumentMoniker": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Transversal.Common\\ResponseGeneric.cs",
+              "RelativeDocumentMoniker": "ProyectoEvoltis.Transversal.Common\\ResponseGeneric.cs",
+              "ToolTip": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Transversal.Common\\ResponseGeneric.cs",
+              "RelativeToolTip": "ProyectoEvoltis.Transversal.Common\\ResponseGeneric.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T03:38:05.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResponsePagination.cs",
+              "DocumentMoniker": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Transversal.Common\\ResponsePagination.cs",
+              "RelativeDocumentMoniker": "ProyectoEvoltis.Transversal.Common\\ResponsePagination.cs",
+              "ToolTip": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Transversal.Common\\ResponsePagination.cs",
+              "RelativeToolTip": "ProyectoEvoltis.Transversal.Common\\ResponsePagination.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T02:34:22.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.WebApi\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "ProyectoEvoltis.WebApi\\Controllers\\CustomersController.cs",
+              "ToolTip": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.WebApi\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "ProyectoEvoltis.WebApi\\Controllers\\CustomersController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowD8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T00:30:29.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoEvoltis.WebApi\\Program.cs",
+              "ToolTip": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.WebApi\\Program.cs",
+              "RelativeToolTip": "ProyectoEvoltis.WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T00:39:40.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfigureServices.cs",
+              "DocumentMoniker": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Application.Main\\ConfigureServices.cs",
+              "RelativeDocumentMoniker": "ProyectoEvoltis.Application.Main\\ConfigureServices.cs",
+              "ToolTip": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Application.Main\\ConfigureServices.cs",
+              "RelativeToolTip": "ProyectoEvoltis.Application.Main\\ConfigureServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T00:28:43.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Infraestructure.Persistence\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "ProyectoEvoltis.Infraestructure.Persistence\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Infraestructure.Persistence\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "ProyectoEvoltis.Infraestructure.Persistence\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T00:57:23.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfigureServices.cs",
+              "DocumentMoniker": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Infraestructure.Persistence\\ConfigureServices.cs",
+              "RelativeDocumentMoniker": "ProyectoEvoltis.Infraestructure.Persistence\\ConfigureServices.cs",
+              "ToolTip": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Infraestructure.Persistence\\ConfigureServices.cs",
+              "RelativeToolTip": "ProyectoEvoltis.Infraestructure.Persistence\\ConfigureServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T00:46:16.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomersDtoValidator.cs",
+              "DocumentMoniker": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Application.Validator\\CustomersDtoValidator.cs",
+              "RelativeDocumentMoniker": "ProyectoEvoltis.Application.Validator\\CustomersDtoValidator.cs",
+              "ToolTip": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Application.Validator\\CustomersDtoValidator.cs",
+              "RelativeToolTip": "ProyectoEvoltis.Application.Validator\\CustomersDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T03:28:38.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Response.cs",
+              "DocumentMoniker": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Transversal.Common\\Response.cs",
+              "RelativeDocumentMoniker": "ProyectoEvoltis.Transversal.Common\\Response.cs",
+              "ToolTip": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Transversal.Common\\Response.cs",
+              "RelativeToolTip": "ProyectoEvoltis.Transversal.Common\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T02:34:28.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICustomersApplication.cs",
+              "DocumentMoniker": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Application.Main\\Customers\\ICustomersApplication.cs",
+              "RelativeDocumentMoniker": "ProyectoEvoltis.Application.Main\\Customers\\ICustomersApplication.cs",
+              "ToolTip": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Application.Main\\Customers\\ICustomersApplication.cs",
+              "RelativeToolTip": "ProyectoEvoltis.Application.Main\\Customers\\ICustomersApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T02:57:02.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Infraestructure.Persistence\\Contexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProyectoEvoltis.Infraestructure.Persistence\\Contexts\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Infraestructure.Persistence\\Contexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProyectoEvoltis.Infraestructure.Persistence\\Contexts\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wB4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T03:00:12.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomersRepository.cs",
+              "DocumentMoniker": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Infraestructure.Persistence\\Repositories\\CustomersRepository.cs",
+              "RelativeDocumentMoniker": "ProyectoEvoltis.Infraestructure.Persistence\\Repositories\\CustomersRepository.cs",
+              "ToolTip": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Infraestructure.Persistence\\Repositories\\CustomersRepository.cs",
+              "RelativeToolTip": "ProyectoEvoltis.Infraestructure.Persistence\\Repositories\\CustomersRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T00:58:49.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Domain\\Entity\\Customer.cs",
+              "RelativeDocumentMoniker": "ProyectoEvoltis.Domain\\Entity\\Customer.cs",
+              "ToolTip": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Domain\\Entity\\Customer.cs",
+              "RelativeToolTip": "ProyectoEvoltis.Domain\\Entity\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T23:55:04.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ProyectoEvoltis.WebApi\\appsettings.json",
+              "ToolTip": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.WebApi\\appsettings.json",
+              "RelativeToolTip": "ProyectoEvoltis.WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-27T00:29:38.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MappingsProfile.cs",
+              "DocumentMoniker": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Application.Main\\Common\\Mappings\\MappingsProfile.cs",
+              "RelativeDocumentMoniker": "ProyectoEvoltis.Application.Main\\Common\\Mappings\\MappingsProfile.cs",
+              "ToolTip": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Application.Main\\Common\\Mappings\\MappingsProfile.cs",
+              "RelativeToolTip": "ProyectoEvoltis.Application.Main\\Common\\Mappings\\MappingsProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T00:28:02.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IOrderExpression.cs",
+              "DocumentMoniker": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Infraestructure.Persistence\\Interfaces\\IOrderExpression.cs",
+              "RelativeDocumentMoniker": "ProyectoEvoltis.Infraestructure.Persistence\\Interfaces\\IOrderExpression.cs",
+              "ToolTip": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Infraestructure.Persistence\\Interfaces\\IOrderExpression.cs",
+              "RelativeToolTip": "ProyectoEvoltis.Infraestructure.Persistence\\Interfaces\\IOrderExpression.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T00:45:54.988Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

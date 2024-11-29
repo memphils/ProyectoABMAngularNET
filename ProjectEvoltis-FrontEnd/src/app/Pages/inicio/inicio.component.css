@@ -1,0 +1,15 @@
+.search-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
+  .search-input {
+    flex: 1; /* Hace que el input tome todo el espacio disponible */
+  }
+
+  .new-button {
+    margin-left: auto; /* Mueve el botón a la extrema derecha */
+  }

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "df5pJl+QTNAas+2yZOzuQQskD8nLWW8W9Xoe1qphPL7sfJplJUiJxG+c87hWyl+lyLFVAe8RYhpFEUE7ghB1Ig==",
+  "success": true,
+  "projectFilePath": "F:\\Proyectos\\ProyectoABMAngular-.NETCORE8\\ProyectoABMAngularNET\\ProyectoEvoltis-Backend\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Transversal.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elodi\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}

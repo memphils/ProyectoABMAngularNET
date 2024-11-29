@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProyectoEvoltis.Application.Interface/1.0.0": {
+        "dependencies": {
+          "ProyectoEvoltis.Application.DTO": "1.0.0",
+          "ProyectoEvoltis.Domain": "1.0.0",
+          "ProyectoEvoltis.Transversal.Common": "1.0.0"
+        },
+        "runtime": {
+          "ProyectoEvoltis.Application.Interface.dll": {}
+        }
+      },
+      "ProyectoEvoltis.Application.DTO/1.0.0": {
+        "runtime": {
+          "ProyectoEvoltis.Application.DTO.dll": {}
+        }
+      },
+      "ProyectoEvoltis.Domain/1.0.0": {
+        "runtime": {
+          "ProyectoEvoltis.Domain.dll": {}
+        }
+      },
+      "ProyectoEvoltis.Transversal.Common/1.0.0": {
+        "runtime": {
+          "ProyectoEvoltis.Transversal.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProyectoEvoltis.Application.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProyectoEvoltis.Application.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProyectoEvoltis.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProyectoEvoltis.Transversal.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

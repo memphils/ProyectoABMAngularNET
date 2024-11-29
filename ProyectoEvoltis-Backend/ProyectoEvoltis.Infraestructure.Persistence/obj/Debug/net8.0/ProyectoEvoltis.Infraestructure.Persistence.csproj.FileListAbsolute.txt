@@ -1,0 +1,17 @@
+F:\Proyectos\ProyectoEvoltis\ProyectoEvoltis.Transversal.Common\ProyectoEvoltis.Infraestructure.Persistence\bin\Debug\net8.0\ProyectoEvoltis.Infraestructure.Persistence.deps.json
+F:\Proyectos\ProyectoEvoltis\ProyectoEvoltis.Transversal.Common\ProyectoEvoltis.Infraestructure.Persistence\bin\Debug\net8.0\ProyectoEvoltis.Infraestructure.Persistence.runtimeconfig.json
+F:\Proyectos\ProyectoEvoltis\ProyectoEvoltis.Transversal.Common\ProyectoEvoltis.Infraestructure.Persistence\bin\Debug\net8.0\ProyectoEvoltis.Infraestructure.Persistence.dll
+F:\Proyectos\ProyectoEvoltis\ProyectoEvoltis.Transversal.Common\ProyectoEvoltis.Infraestructure.Persistence\bin\Debug\net8.0\ProyectoEvoltis.Infraestructure.Persistence.pdb
+F:\Proyectos\ProyectoEvoltis\ProyectoEvoltis.Transversal.Common\ProyectoEvoltis.Infraestructure.Persistence\bin\Debug\net8.0\ProyectoEvoltis.Domain.dll
+F:\Proyectos\ProyectoEvoltis\ProyectoEvoltis.Transversal.Common\ProyectoEvoltis.Infraestructure.Persistence\bin\Debug\net8.0\ProyectoEvoltis.Domain.pdb
+F:\Proyectos\ProyectoEvoltis\ProyectoEvoltis.Transversal.Common\ProyectoEvoltis.Infraestructure.Persistence\obj\Debug\net8.0\ProyectoEvoltis.Infraestructure.Persistence.csproj.AssemblyReference.cache
+F:\Proyectos\ProyectoEvoltis\ProyectoEvoltis.Transversal.Common\ProyectoEvoltis.Infraestructure.Persistence\obj\Debug\net8.0\ProyectoEvoltis.Infraestructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proyectos\ProyectoEvoltis\ProyectoEvoltis.Transversal.Common\ProyectoEvoltis.Infraestructure.Persistence\obj\Debug\net8.0\ProyectoEvoltis.Infraestructure.Persistence.AssemblyInfoInputs.cache
+F:\Proyectos\ProyectoEvoltis\ProyectoEvoltis.Transversal.Common\ProyectoEvoltis.Infraestructure.Persistence\obj\Debug\net8.0\ProyectoEvoltis.Infraestructure.Persistence.AssemblyInfo.cs
+F:\Proyectos\ProyectoEvoltis\ProyectoEvoltis.Transversal.Common\ProyectoEvoltis.Infraestructure.Persistence\obj\Debug\net8.0\ProyectoEvoltis.Infraestructure.Persistence.csproj.CoreCompileInputs.cache
+F:\Proyectos\ProyectoEvoltis\ProyectoEvoltis.Transversal.Common\ProyectoEvoltis.Infraestructure.Persistence\obj\Debug\net8.0\Proyecto.1E357613.Up2Date
+F:\Proyectos\ProyectoEvoltis\ProyectoEvoltis.Transversal.Common\ProyectoEvoltis.Infraestructure.Persistence\obj\Debug\net8.0\ProyectoEvoltis.Infraestructure.Persistence.dll
+F:\Proyectos\ProyectoEvoltis\ProyectoEvoltis.Transversal.Common\ProyectoEvoltis.Infraestructure.Persistence\obj\Debug\net8.0\refint\ProyectoEvoltis.Infraestructure.Persistence.dll
+F:\Proyectos\ProyectoEvoltis\ProyectoEvoltis.Transversal.Common\ProyectoEvoltis.Infraestructure.Persistence\obj\Debug\net8.0\ProyectoEvoltis.Infraestructure.Persistence.pdb
+F:\Proyectos\ProyectoEvoltis\ProyectoEvoltis.Transversal.Common\ProyectoEvoltis.Infraestructure.Persistence\obj\Debug\net8.0\ProyectoEvoltis.Infraestructure.Persistence.genruntimeconfig.cache
+F:\Proyectos\ProyectoEvoltis\ProyectoEvoltis.Transversal.Common\ProyectoEvoltis.Infraestructure.Persistence\obj\Debug\net8.0\ref\ProyectoEvoltis.Infraestructure.Persistence.dll

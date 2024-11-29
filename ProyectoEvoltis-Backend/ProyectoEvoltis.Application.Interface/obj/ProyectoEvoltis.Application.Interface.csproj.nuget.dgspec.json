@@ -1,0 +1,278 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Application.Interface\\ProyectoEvoltis.Application.Interface.csproj": {}
+  },
+  "projects": {
+    "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Application.DTO\\ProyectoEvoltis.Application.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Application.DTO\\ProyectoEvoltis.Application.DTO.csproj",
+        "projectName": "ProyectoEvoltis.Application.DTO",
+        "projectPath": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Application.DTO\\ProyectoEvoltis.Application.DTO.csproj",
+        "packagesPath": "C:\\Users\\elodi\\.nuget\\packages\\",
+        "outputPath": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Application.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\elodi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Application.Interface\\ProyectoEvoltis.Application.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Application.Interface\\ProyectoEvoltis.Application.Interface.csproj",
+        "projectName": "ProyectoEvoltis.Application.Interface",
+        "projectPath": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Application.Interface\\ProyectoEvoltis.Application.Interface.csproj",
+        "packagesPath": "C:\\Users\\elodi\\.nuget\\packages\\",
+        "outputPath": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Application.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\elodi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Application.DTO\\ProyectoEvoltis.Application.DTO.csproj": {
+                "projectPath": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Application.DTO\\ProyectoEvoltis.Application.DTO.csproj"
+              },
+              "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Domain\\ProyectoEvoltis.Domain.csproj": {
+                "projectPath": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Domain\\ProyectoEvoltis.Domain.csproj"
+              },
+              "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Transversal.Common.csproj": {
+                "projectPath": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Transversal.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Domain\\ProyectoEvoltis.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Domain\\ProyectoEvoltis.Domain.csproj",
+        "projectName": "ProyectoEvoltis.Domain",
+        "projectPath": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Domain\\ProyectoEvoltis.Domain.csproj",
+        "packagesPath": "C:\\Users\\elodi\\.nuget\\packages\\",
+        "outputPath": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\elodi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Transversal.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Transversal.Common.csproj",
+        "projectName": "ProyectoEvoltis.Transversal.Common",
+        "projectPath": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Transversal.Common.csproj",
+        "packagesPath": "C:\\Users\\elodi\\.nuget\\packages\\",
+        "outputPath": "F:\\Proyectos\\ProyectoEvoltis\\ProyectoEvoltis.Transversal.Common\\ProyectoEvoltis.Transversal.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\elodi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProyectoEvoltis.Application.DTO\ProyectoEvoltis.Application.DTO.csproj" />
+    <ProjectReference Include="..\ProyectoEvoltis.Application.Validator\ProyectoEvoltis.Application.Validator.csproj" />
+    <ProjectReference Include="..\ProyectoEvoltis.Infraestructure.Persistence\ProyectoEvoltis.Infrastructure.Persistence.csproj" />
+    <ProjectReference Include="..\ProyectoEvoltis.Transversal.Common\ProyectoEvoltis.Transversal.Common.csproj" />
+  </ItemGroup>
+
+</Project>
