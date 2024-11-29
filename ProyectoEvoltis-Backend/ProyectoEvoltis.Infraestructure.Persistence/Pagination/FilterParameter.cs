@@ -1,4 +1,4 @@
-﻿namespace SmartFran.Cloud.Business.Infrastructure.Repositories.Domain.EF.Pagination
+﻿namespace ProyectoEvoltis.Infrastructure.Persistence.Pagination
 {
   public record FilterParameter
   {
